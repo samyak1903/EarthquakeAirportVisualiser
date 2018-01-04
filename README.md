@@ -1,5 +1,5 @@
 Plot Earthquakes on the map of the world. This application displays all earthquakes according to magnitude,depths and locations and all airports on the map.
-This is a Applet based application.
+This is an Applet based application.
 
 This application uses:
 1) Google Map,MicrosoftHybrid Map,OpenStreetView Maps API.
