@@ -10,3 +10,4 @@ Features:
 1) If you hover your mouse over an earthquake it will display its magnitude and location likewise if you hover on an airport it will show the name of the airport.
 2) Clicking on an earthquake will show all the airports along with their routes within the threat circle.            
 3) Different keyboard keys for different actions like keyboard keys for recent earthquakes and display earthquakes on the basis of magnitude.Eg. If you press key 2 from keyboard it will display all the earthquakes with magnitude>=2
+![alt text](https://github.com/samyak1903/EarthquakeAirportVisualiser/blob/master/Quakeport.jpg)
